@@ -1,3 +1,9 @@
 kicad/fp-info-cache
 /kicad/opamp-common-base-backups
 *.kicad_sch-bak
+spice/opamp-classabs.fft
+spice/opamp-classabs.log
+spice/opamp-classabs.net
+spice/opamp-classabs.op.raw
+spice/opamp-classabs.raw
+*.lck
