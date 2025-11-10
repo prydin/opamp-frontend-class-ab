@@ -6970,7 +6970,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "4.7k"
+		(property "Value" "1.5k"
 			(at 190.5 60.7059 0)
 			(effects
 				(font
@@ -9585,7 +9585,7 @@
 				)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "100"
 			(at 219.71 91.44 90)
 			(effects
 				(font
@@ -11943,7 +11943,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "4.7k"
+		(property "Value" "1.5k"
 			(at 190.5 102.6159 0)
 			(effects
 				(font
@@ -13875,7 +13875,7 @@
 				)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "100"
 			(at 219.71 60.96 90)
 			(effects
 				(font
