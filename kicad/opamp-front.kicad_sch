@@ -3600,16 +3600,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "Optional\nCan be left open or shorted"
-		(exclude_from_sim no)
-		(at 66.294 122.174 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "94deae89-e47a-4193-be49-6fbbf0b492e8")
-	)
 	(junction
 		(at 140.97 36.83)
 		(diameter 0)
@@ -3617,16 +3607,16 @@
 		(uuid "044a1f01-0d42-479b-bebc-50ff6d0784ab")
 	)
 	(junction
-		(at 49.53 73.66)
+		(at 237.49 132.08)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "078741ff-0e24-4118-bd82-a8f1ee115d86")
+	)
+	(junction
+		(at 46.99 73.66)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0e9688eb-49e0-403e-a1fc-54759f0f8081")
-	)
-	(junction
-		(at 118.11 132.08)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0f1a632e-152d-4391-b5c3-1fa286a3549a")
 	)
 	(junction
 		(at 168.91 76.2)
@@ -3641,12 +3631,6 @@
 		(uuid "113a385d-5372-4d2f-9f65-a0691214bc7b")
 	)
 	(junction
-		(at 25.4 113.03)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "11b4ff56-9ed2-4a74-8e6a-2947efbab916")
-	)
-	(junction
 		(at 233.68 132.08)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3659,10 +3643,10 @@
 		(uuid "17915f55-4518-4458-bcb9-44199bb13713")
 	)
 	(junction
-		(at 57.15 127)
+		(at 25.4 113.03)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "1bb574e0-0247-4165-a685-69e54b880161")
+		(uuid "1eb19cc9-8a1a-4df9-b29e-e88614566a01")
 	)
 	(junction
 		(at 57.15 83.82)
@@ -3701,6 +3685,12 @@
 		(uuid "2c3d3f7f-1334-43b3-8e22-d1e3a83352c9")
 	)
 	(junction
+		(at 53.34 73.66)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "30832d64-7733-46f9-beab-f2ee901a69a9")
+	)
+	(junction
 		(at 261.62 25.4)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3731,6 +3721,12 @@
 		(uuid "38d13cab-6943-4d5c-a1ec-59f27c12bb3b")
 	)
 	(junction
+		(at 39.37 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3bf75c84-d355-4026-99b0-1b96ae7c641b")
+	)
+	(junction
 		(at 152.4 26.67)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3741,12 +3737,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3e1792f9-06a1-4634-8188-1ff3aba0e207")
-	)
-	(junction
-		(at 39.37 27.94)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3f8f469d-c527-4dfa-9387-b0b2b3665ca4")
 	)
 	(junction
 		(at 132.08 26.67)
@@ -3773,16 +3763,22 @@
 		(uuid "4bfc8673-422f-42a5-9a9f-33afdbcbb41f")
 	)
 	(junction
+		(at 237.49 26.67)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4df7dd85-4992-46b3-b5eb-7617e2e4750f")
+	)
+	(junction
+		(at 34.29 88.9)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4ec8389f-1264-4b12-8a1f-e3241e328ab8")
+	)
+	(junction
 		(at 260.35 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "55464fc5-fa83-43d9-9ca8-d44ae9e392bf")
-	)
-	(junction
-		(at 40.64 88.9)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5a77dd45-2062-48aa-8ed5-6d98ccbf7d74")
 	)
 	(junction
 		(at 223.52 132.08)
@@ -3801,6 +3797,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6506f55f-85c3-4d18-85db-be9d1070e9b2")
+	)
+	(junction
+		(at 33.02 139.7)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6607aecf-07d6-433c-8c81-2587edccd2a6")
 	)
 	(junction
 		(at 177.8 118.11)
@@ -3879,12 +3881,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "92a63200-e77d-4879-a599-86fd05c68eb8")
-	)
-	(junction
-		(at 40.64 73.66)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "92e5cec4-07d1-4c87-9b95-ba2d79b3ed61")
 	)
 	(junction
 		(at 233.68 26.67)
@@ -4013,6 +4009,12 @@
 		(uuid "bdc82e7c-3a79-44b9-9c62-52443f2cddab")
 	)
 	(junction
+		(at 39.37 27.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c27838e5-ce53-48e3-8b8a-842aa8436a24")
+	)
+	(junction
 		(at 151.13 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4023,12 +4025,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cc3ba58d-7462-4a83-8fb6-0c88111d88a6")
-	)
-	(junction
-		(at 25.4 88.9)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d08be911-c0df-4ff2-8b19-2b4909f85964")
 	)
 	(junction
 		(at 27.94 27.94)
@@ -4059,12 +4055,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d7184539-0d73-4fd1-8a64-af84485ca350")
-	)
-	(junction
-		(at 57.15 113.03)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "da059736-e723-448a-b86f-1510a80b11ea")
 	)
 	(junction
 		(at 118.11 44.45)
@@ -4109,22 +4099,22 @@
 		(uuid "eda7e8dc-3893-4422-8dba-82aa8b075f01")
 	)
 	(junction
-		(at 39.37 43.18)
+		(at 34.29 73.66)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "efc0bedb-feba-4f4e-a6d3-ff11813b2e41")
+		(uuid "f1ef61c7-5177-4008-8d41-dfe492b1fa85")
+	)
+	(junction
+		(at 118.11 132.08)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f244abb4-b448-4ded-b6aa-1e28192b2881")
 	)
 	(junction
 		(at 198.12 111.76)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f83edc49-de30-4502-93d3-339fd9ffedbb")
-	)
-	(junction
-		(at 57.15 78.74)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fba818e2-3a50-48e6-8bde-17019065ba41")
 	)
 	(junction
 		(at 233.68 76.2)
@@ -4137,6 +4127,16 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ff5c5d24-eaa9-437a-a669-025060c934b8")
+	)
+	(wire
+		(pts
+			(xy 34.29 88.9) (xy 34.29 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "00c22a9d-e6f5-4479-bb32-c7162a306f68")
 	)
 	(wire
 		(pts
@@ -4210,6 +4210,16 @@
 	)
 	(wire
 		(pts
+			(xy 39.37 43.18) (xy 49.53 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0870499e-a328-452c-8c44-17e38268f371")
+	)
+	(wire
+		(pts
 			(xy 158.75 107.95) (xy 158.75 118.11)
 		)
 		(stroke
@@ -4280,16 +4290,6 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 88.9) (xy 40.64 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0e9edafb-a8ee-467a-9c2f-3616d4943e44")
-	)
-	(wire
-		(pts
 			(xy 198.12 143.51) (xy 212.09 143.51)
 		)
 		(stroke
@@ -4320,36 +4320,6 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 125.73) (xy 118.11 132.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "14e1ecca-3a1b-4542-b812-c4d7c12395de")
-	)
-	(wire
-		(pts
-			(xy 25.4 140.97) (xy 41.91 140.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1552c342-df1a-404a-beed-cee0e09942e6")
-	)
-	(wire
-		(pts
-			(xy 48.26 127) (xy 57.15 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1598afc3-0ed0-4974-acaf-f1f6c4d6043d")
-	)
-	(wire
-		(pts
 			(xy 252.73 76.2) (xy 260.35 76.2)
 		)
 		(stroke
@@ -4370,16 +4340,6 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 73.66) (xy 33.02 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1aa428b6-ef5f-4e71-a652-f18b959772b5")
-	)
-	(wire
-		(pts
 			(xy 96.52 154.94) (xy 100.33 154.94)
 		)
 		(stroke
@@ -4390,13 +4350,13 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 113.03) (xy 34.29 113.03)
+			(xy 49.53 41.91) (xy 49.53 43.18)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "1cba2604-d407-44f9-96ff-08f175b850f7")
+		(uuid "1dca278d-8bd8-45dd-a807-4a64e7d80860")
 	)
 	(wire
 		(pts
@@ -4440,16 +4400,6 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 59.69) (xy 57.15 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "20a40122-9000-437e-93a6-8add78536952")
-	)
-	(wire
-		(pts
 			(xy 212.09 143.51) (xy 212.09 142.24)
 		)
 		(stroke
@@ -4460,7 +4410,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 85.09) (xy 49.53 88.9)
+			(xy 46.99 85.09) (xy 46.99 88.9)
 		)
 		(stroke
 			(width 0)
@@ -4520,6 +4470,16 @@
 	)
 	(wire
 		(pts
+			(xy 118.11 125.73) (xy 118.11 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "256c63e7-2bba-42c4-b234-2047c2bbf52c")
+	)
+	(wire
+		(pts
 			(xy 88.9 154.94) (xy 86.36 154.94)
 		)
 		(stroke
@@ -4550,6 +4510,16 @@
 	)
 	(wire
 		(pts
+			(xy 33.02 139.7) (xy 33.02 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "28b45bad-dbd7-4263-a929-4f9a974b03dd")
+	)
+	(wire
+		(pts
 			(xy 176.53 95.25) (xy 177.8 95.25)
 		)
 		(stroke
@@ -4570,16 +4540,6 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 146.05) (xy 34.29 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2a48b3f9-3aef-4a83-8f44-2834dea26ed3")
-	)
-	(wire
-		(pts
 			(xy 177.8 95.25) (xy 177.8 101.6)
 		)
 		(stroke
@@ -4587,16 +4547,6 @@
 			(type default)
 		)
 		(uuid "2c43a360-2df5-47b7-85bd-0704b0f8b271")
-	)
-	(wire
-		(pts
-			(xy 57.15 143.51) (xy 60.96 143.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2cdba6ed-ed66-43fd-a9cb-3092342ebc80")
 	)
 	(wire
 		(pts
@@ -4650,6 +4600,16 @@
 	)
 	(wire
 		(pts
+			(xy 33.02 139.7) (xy 46.99 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3319eafa-1beb-4e9b-b819-dc3c47d381a5")
+	)
+	(wire
+		(pts
 			(xy 187.96 95.25) (xy 215.9 95.25)
 		)
 		(stroke
@@ -4670,16 +4630,6 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 113.03) (xy 39.37 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "365476de-4751-45b0-8587-267a79a91e8f")
-	)
-	(wire
-		(pts
 			(xy 86.36 148.59) (xy 86.36 154.94)
 		)
 		(stroke
@@ -4697,16 +4647,6 @@
 			(type default)
 		)
 		(uuid "3a8ed25d-3ea1-41e3-ab7c-036bc6d75326")
-	)
-	(wire
-		(pts
-			(xy 48.26 27.94) (xy 39.37 27.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3c465e70-6673-4a4d-b8bd-ca5511579e18")
 	)
 	(wire
 		(pts
@@ -4770,6 +4710,26 @@
 	)
 	(wire
 		(pts
+			(xy 34.29 88.9) (xy 46.99 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "43245c36-f356-42e7-b1fe-5fab021b8c82")
+	)
+	(wire
+		(pts
+			(xy 62.23 142.24) (xy 66.04 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "456b0e4f-db77-4a3f-9bf1-2fdfb64a1fb5")
+	)
+	(wire
+		(pts
 			(xy 77.47 59.69) (xy 77.47 76.2)
 		)
 		(stroke
@@ -4790,16 +4750,6 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 113.03) (xy 57.15 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "486882c9-7a0a-4ccd-9986-b8f15f08c2f0")
-	)
-	(wire
-		(pts
 			(xy 105.41 113.03) (xy 105.41 77.47)
 		)
 		(stroke
@@ -4817,6 +4767,16 @@
 			(type default)
 		)
 		(uuid "4a56ce69-519a-439b-80f9-891aef009d52")
+	)
+	(wire
+		(pts
+			(xy 25.4 113.03) (xy 34.29 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4bc7dbc9-5639-462f-9c57-c732921ae917")
 	)
 	(wire
 		(pts
@@ -4900,6 +4860,16 @@
 	)
 	(wire
 		(pts
+			(xy 44.45 151.13) (xy 44.45 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "54521ae2-2152-4ba0-b2ba-dbb9621bbae6")
+	)
+	(wire
+		(pts
 			(xy 151.13 100.33) (xy 151.13 107.95)
 		)
 		(stroke
@@ -4950,16 +4920,6 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 153.67) (xy 60.96 143.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "594be3f2-7896-48cb-979a-95a73ce1ac69")
-	)
-	(wire
-		(pts
 			(xy 246.38 148.59) (xy 246.38 76.2)
 		)
 		(stroke
@@ -4977,16 +4937,6 @@
 			(type default)
 		)
 		(uuid "59add689-8c9b-4953-82a1-de7281a6fced")
-	)
-	(wire
-		(pts
-			(xy 48.26 124.46) (xy 48.26 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5a6ed8a4-e9b6-4aa9-840f-7d8a1b859bae")
 	)
 	(wire
 		(pts
@@ -5020,13 +4970,13 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 147.32) (xy 25.4 140.97)
+			(xy 25.4 76.2) (xy 25.4 113.03)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "5ebe8e3e-dce5-4fea-911b-98af4a57f0f6")
+		(uuid "5f071cba-4d0a-4492-9600-579ee34615f5")
 	)
 	(wire
 		(pts
@@ -5057,6 +5007,16 @@
 			(type default)
 		)
 		(uuid "62d2b1d3-315f-4545-849b-9bae9b398743")
+	)
+	(wire
+		(pts
+			(xy 39.37 27.94) (xy 49.53 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6329947e-2e9b-42e8-a63f-1a1080cba8eb")
 	)
 	(wire
 		(pts
@@ -5140,6 +5100,16 @@
 	)
 	(wire
 		(pts
+			(xy 53.34 59.69) (xy 53.34 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e9a4cf0-601c-4a86-9e86-111649100d03")
+	)
+	(wire
+		(pts
 			(xy 198.12 26.67) (xy 214.63 26.67)
 		)
 		(stroke
@@ -5150,23 +5120,23 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 132.08) (xy 132.08 132.08)
+			(xy 60.96 73.66) (xy 53.34 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6feb6e84-dfd0-4201-ac76-0bdf2595e253")
+	)
+	(wire
+		(pts
+			(xy 87.63 132.08) (xy 118.11 132.08)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "707dad8b-af04-4537-a93e-f5b7d7f847fd")
-	)
-	(wire
-		(pts
-			(xy 57.15 59.69) (xy 60.96 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "70a4f380-8553-44c2-a8e1-6f6af8e371a4")
 	)
 	(wire
 		(pts
@@ -5177,16 +5147,6 @@
 			(type default)
 		)
 		(uuid "70f8c5aa-d7b1-4be3-a39c-21688f48b824")
-	)
-	(wire
-		(pts
-			(xy 87.63 132.08) (xy 118.11 132.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "73c77d65-388a-4849-bfc0-ba8dadd6286a")
 	)
 	(wire
 		(pts
@@ -5210,16 +5170,6 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 73.66) (xy 40.64 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "784dce40-d739-49b1-a278-86b7e7512ce7")
-	)
-	(wire
-		(pts
 			(xy 198.12 26.67) (xy 198.12 34.29)
 		)
 		(stroke
@@ -5227,6 +5177,16 @@
 			(type default)
 		)
 		(uuid "78a90eab-feaf-409e-b3d6-c678b007de39")
+	)
+	(wire
+		(pts
+			(xy 34.29 73.66) (xy 46.99 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "796f9ffe-4e8a-456d-9c5b-f4fdec287d02")
 	)
 	(wire
 		(pts
@@ -5240,7 +5200,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 73.66) (xy 49.53 77.47)
+			(xy 46.99 73.66) (xy 46.99 77.47)
 		)
 		(stroke
 			(width 0)
@@ -5257,16 +5217,6 @@
 			(type default)
 		)
 		(uuid "7d71b6aa-51c4-44c5-aabe-6d418dc48efd")
-	)
-	(wire
-		(pts
-			(xy 25.4 88.9) (xy 25.4 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7d8b66d8-d1d8-427b-8130-2991c9e39de0")
 	)
 	(wire
 		(pts
@@ -5290,7 +5240,7 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 26.67) (xy 241.3 26.67)
+			(xy 233.68 26.67) (xy 237.49 26.67)
 		)
 		(stroke
 			(width 0)
@@ -5317,6 +5267,16 @@
 			(type default)
 		)
 		(uuid "814e31da-4ca9-4703-bb2c-f8a7f99de02d")
+	)
+	(wire
+		(pts
+			(xy 66.04 151.13) (xy 44.45 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "81bfd1dd-ef07-44ce-a931-922bb648f73c")
 	)
 	(wire
 		(pts
@@ -5360,13 +5320,13 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 76.2) (xy 25.4 88.9)
+			(xy 19.05 113.03) (xy 25.4 113.03)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "846db959-8981-46fe-9321-4e8b3ba0318d")
+		(uuid "844eed7d-dd09-4401-a057-ef4a737c3137")
 	)
 	(wire
 		(pts
@@ -5390,6 +5350,16 @@
 	)
 	(wire
 		(pts
+			(xy 49.53 27.94) (xy 49.53 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "891e9a12-4385-4e14-9c68-61a02372790b")
+	)
+	(wire
+		(pts
 			(xy 140.97 26.67) (xy 132.08 26.67)
 		)
 		(stroke
@@ -5407,6 +5377,16 @@
 			(type default)
 		)
 		(uuid "89a3d25f-ec8c-4bab-813c-cdb1bdc37a58")
+	)
+	(wire
+		(pts
+			(xy 237.49 132.08) (xy 241.3 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "89ce5a83-bdf9-403d-a514-89d38d6f3854")
 	)
 	(wire
 		(pts
@@ -5490,6 +5470,16 @@
 	)
 	(wire
 		(pts
+			(xy 237.49 26.67) (xy 241.3 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9568ed6b-b3a8-4164-8f30-8b4c208e8199")
+	)
+	(wire
+		(pts
 			(xy 168.91 76.2) (xy 168.91 90.17)
 		)
 		(stroke
@@ -5527,6 +5517,16 @@
 			(type default)
 		)
 		(uuid "97370070-2743-46d4-aa03-ed60588122c3")
+	)
+	(wire
+		(pts
+			(xy 53.34 59.69) (xy 60.96 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "989e37cd-7a47-4cac-a382-f7b82e786dc1")
 	)
 	(wire
 		(pts
@@ -5620,6 +5620,16 @@
 	)
 	(wire
 		(pts
+			(xy 34.29 113.03) (xy 39.37 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9f1d1389-ba45-4bdc-b9fe-203c22ab346b")
+	)
+	(wire
+		(pts
 			(xy 87.63 105.41) (xy 110.49 105.41)
 		)
 		(stroke
@@ -5647,16 +5657,6 @@
 			(type default)
 		)
 		(uuid "a03ac6a1-c17f-4f84-8899-2879d942848a")
-	)
-	(wire
-		(pts
-			(xy 19.05 110.49) (xy 19.05 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a1459dd7-698d-4182-8957-20237c82f99c")
 	)
 	(wire
 		(pts
@@ -5750,16 +5750,6 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 124.46) (xy 57.15 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ad76e1b0-5cd8-4ec3-95a2-14ee45dc1eb8")
-	)
-	(wire
-		(pts
 			(xy 132.08 41.91) (xy 132.08 44.45)
 		)
 		(stroke
@@ -5800,7 +5790,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 73.66) (xy 60.96 73.66)
+			(xy 46.99 73.66) (xy 53.34 73.66)
 		)
 		(stroke
 			(width 0)
@@ -5860,17 +5850,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 43.18) (xy 48.26 43.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "be2fce7d-4fca-4e13-bf8c-a20afe8f10de")
-	)
-	(wire
-		(pts
-			(xy 40.64 73.66) (xy 40.64 77.47)
+			(xy 34.29 73.66) (xy 34.29 77.47)
 		)
 		(stroke
 			(width 0)
@@ -5960,16 +5940,6 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 146.05) (xy 34.29 146.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c4fff31f-8d58-47af-a014-82d24a73fd5d")
-	)
-	(wire
-		(pts
 			(xy 168.91 69.85) (xy 168.91 76.2)
 		)
 		(stroke
@@ -5980,6 +5950,16 @@
 	)
 	(wire
 		(pts
+			(xy 44.45 144.78) (xy 46.99 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c5ff4592-5b21-41b2-8314-428b0795dfa1")
+	)
+	(wire
+		(pts
 			(xy 158.75 132.08) (xy 151.13 132.08)
 		)
 		(stroke
@@ -5987,6 +5967,16 @@
 			(type default)
 		)
 		(uuid "c7e38737-58b4-4fce-9f4b-55c750af7336")
+	)
+	(wire
+		(pts
+			(xy 33.02 73.66) (xy 34.29 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c819c605-239b-4556-861c-ba43f466a3c0")
 	)
 	(wire
 		(pts
@@ -6130,16 +6120,6 @@
 	)
 	(wire
 		(pts
-			(xy 19.05 113.03) (xy 25.4 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d0b5e505-7da9-4447-9b76-78b2fa0a6b56")
-	)
-	(wire
-		(pts
 			(xy 132.08 125.73) (xy 132.08 132.08)
 		)
 		(stroke
@@ -6147,6 +6127,16 @@
 			(type default)
 		)
 		(uuid "d1e3344b-88c0-4336-b0ad-5c391145bfd9")
+	)
+	(wire
+		(pts
+			(xy 33.02 138.43) (xy 33.02 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d2c0e82d-3a4a-42a3-ae4a-24692a8fca23")
 	)
 	(wire
 		(pts
@@ -6160,7 +6150,7 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 132.08) (xy 241.3 132.08)
+			(xy 233.68 132.08) (xy 237.49 132.08)
 		)
 		(stroke
 			(width 0)
@@ -6177,16 +6167,6 @@
 			(type default)
 		)
 		(uuid "d5bd260a-da4b-4c6e-9e6e-4d251996e001")
-	)
-	(wire
-		(pts
-			(xy 34.29 153.67) (xy 60.96 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d79332f0-9837-4b66-a769-c7ae5027596f")
 	)
 	(wire
 		(pts
@@ -6220,6 +6200,16 @@
 	)
 	(wire
 		(pts
+			(xy 118.11 132.08) (xy 132.08 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da88905b-f314-4bdf-a11d-f8621808ed69")
+	)
+	(wire
+		(pts
 			(xy 241.3 87.63) (xy 241.3 76.2)
 		)
 		(stroke
@@ -6240,17 +6230,17 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 88.9) (xy 49.53 88.9)
+			(xy 66.04 142.24) (xy 66.04 151.13)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ddddd91d-0b8d-4512-ba67-d9b016d75603")
+		(uuid "dce14381-0d44-439d-a48e-dfd32d1f3cf8")
 	)
 	(wire
 		(pts
-			(xy 40.64 85.09) (xy 40.64 88.9)
+			(xy 34.29 85.09) (xy 34.29 88.9)
 		)
 		(stroke
 			(width 0)
@@ -6310,16 +6300,6 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 73.66) (xy 49.53 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e60ed615-f6c0-429c-a2b8-5f04fef1d48b")
-	)
-	(wire
-		(pts
 			(xy 168.91 113.03) (xy 168.91 118.11)
 		)
 		(stroke
@@ -6360,16 +6340,6 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 41.91) (xy 48.26 43.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eb067bb2-1a10-49fe-af71-85e53a2f6521")
-	)
-	(wire
-		(pts
 			(xy 261.62 25.4) (xy 264.16 25.4)
 		)
 		(stroke
@@ -6387,16 +6357,6 @@
 			(type default)
 		)
 		(uuid "ec001315-94f8-4c80-9e00-12a372ee60d3")
-	)
-	(wire
-		(pts
-			(xy 57.15 127) (xy 57.15 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ed2e15f8-84ec-49d1-868b-5623d22ce0db")
 	)
 	(wire
 		(pts
@@ -6648,7 +6608,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "060e0831-68a8-4b9e-badf-01307408d794")
-		(property "Reference" "C10"
+		(property "Reference" "C13"
 			(at 256.54 91.4399 0)
 			(effects
 				(font
@@ -6702,7 +6662,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "C10")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -6783,7 +6743,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0859e647-5389-42c0-8b14-e492cc22019f")
-		(property "Reference" "D4"
+		(property "Reference" "D12"
 			(at 90.17 91.4399 90)
 			(effects
 				(font
@@ -6855,7 +6815,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "D4")
+					(reference "D12")
 					(unit 1)
 				)
 			)
@@ -7001,7 +6961,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0c037dfa-2cac-48f0-8825-ac08c621e4d2")
-		(property "Reference" "R19"
+		(property "Reference" "R20"
 			(at 190.5 58.1659 0)
 			(effects
 				(font
@@ -7055,7 +7015,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "R19")
+					(reference "R20")
 					(unit 1)
 				)
 			)
@@ -7071,7 +7031,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0ed597a2-b82d-4e63-9510-07ba7a10794e")
-		(property "Reference" "Q8"
+		(property "Reference" "Q12"
 			(at 129.54 119.3799 0)
 			(effects
 				(font
@@ -7080,7 +7040,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2N3904"
+		(property "Value" "2N2904"
 			(at 129.54 121.9199 0)
 			(effects
 				(font
@@ -7131,7 +7091,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "Q8")
+					(reference "Q12")
 					(unit 1)
 				)
 			)
@@ -7147,7 +7107,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "18e9e9b0-3e7f-4bb9-a2d0-1efe1df50897")
-		(property "Reference" "D2"
+		(property "Reference" "D1"
 			(at 46.99 104.1399 90)
 			(effects
 				(font
@@ -7219,73 +7179,7 @@
 		(instances
 			(project ""
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "D2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:PWR_FLAG")
-		(at 19.05 110.49 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "195c344a-0b10-4a80-80f5-ea77b8439294")
-		(property "Reference" "#FLG04"
-			(at 19.05 108.585 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "PWR_FLAG"
-			(at 19.05 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 19.05 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 19.05 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 19.05 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "7c48b121-8614-416a-a177-5db0ef56286b")
-		)
-		(instances
-			(project "opamp-front"
-				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "#FLG04")
+					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -7301,7 +7195,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1ea479c2-fcc4-4c43-bf7f-f00b18dd50f4")
-		(property "Reference" "C3"
+		(property "Reference" "C14"
 			(at 43.18 45.7199 0)
 			(effects
 				(font
@@ -7355,7 +7249,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "C3")
+					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -7500,7 +7394,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1fb27ca0-1a91-419a-8685-e8dcca79c016")
-		(property "Reference" "D7"
+		(property "Reference" "D3"
 			(at 90.17 68.5799 90)
 			(effects
 				(font
@@ -7572,7 +7466,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "D7")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -7588,7 +7482,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "269b661a-e693-4a58-a45d-e5cf1ac749d0")
-		(property "Reference" "C9"
+		(property "Reference" "C7"
 			(at 181.61 55.8799 0)
 			(effects
 				(font
@@ -7642,7 +7536,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "C9")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -7714,6 +7608,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 19.05 113.03 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2ba9b07e-798d-44f8-b440-7036879874c6")
+		(property "Reference" "#FLG06"
+			(at 19.05 111.125 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 19.05 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 19.05 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 19.05 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 19.05 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bb457e7e-e027-4a6a-a46f-7e7c1f3fcd4b")
+		)
+		(instances
+			(project "opamp-front"
+				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
+					(reference "#FLG06")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 39.37 31.75 180)
 		(unit 1)
@@ -7723,7 +7683,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2c34e65f-2586-4c15-a450-d4726d8b5b75")
-		(property "Reference" "C2"
+		(property "Reference" "C15"
 			(at 43.18 30.4799 0)
 			(effects
 				(font
@@ -7777,7 +7737,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "C2")
+					(reference "C15")
 					(unit 1)
 				)
 			)
@@ -7793,7 +7753,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3286a26f-c90f-4caa-ac32-3878ce915758")
-		(property "Reference" "R20"
+		(property "Reference" "R31"
 			(at 265.43 69.85 90)
 			(effects
 				(font
@@ -7845,7 +7805,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "R20")
+					(reference "R31")
 					(unit 1)
 				)
 			)
@@ -7861,7 +7821,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "355ffa8b-9638-4213-bf75-69dbd19e3bc9")
-		(property "Reference" "R27"
+		(property "Reference" "R16"
 			(at 153.67 62.2299 0)
 			(effects
 				(font
@@ -7915,7 +7875,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "R27")
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -7931,7 +7891,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "35fffa71-69a9-42b6-ae92-705310bac56f")
-		(property "Reference" "R21"
+		(property "Reference" "R30"
 			(at 255.27 81.2799 0)
 			(effects
 				(font
@@ -7985,7 +7945,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "R21")
+					(reference "R30")
 					(unit 1)
 				)
 			)
@@ -7993,15 +7953,16 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 49.53 81.28 0)
+		(at 46.99 81.28 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "369d5136-91af-413c-b1c8-a0b875a6ab32")
-		(property "Reference" "C5"
-			(at 52.324 80.01 0)
+		(property "Reference" "C2"
+			(at 50.8 80.0099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8010,7 +7971,7 @@
 			)
 		)
 		(property "Value" "220p"
-			(at 52.07 82.55 0)
+			(at 50.8 82.5499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8019,7 +7980,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:C_Rect_L7.2mm_W3.0mm_P5.00mm_FKS2_FKP2_MKS2_MKP2"
-			(at 50.4952 85.09 0)
+			(at 47.9552 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8028,7 +7989,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 49.53 81.28 0)
+			(at 46.99 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8037,7 +7998,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 49.53 81.28 0)
+			(at 46.99 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8054,24 +8015,24 @@
 		(instances
 			(project ""
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "C5")
+					(reference "C2")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "power:PWR_FLAG")
-		(at 48.26 41.91 0)
+		(lib_id "power:GND")
+		(at 33.02 147.32 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "3777ee02-6fdf-4940-b2ab-3b54603052ee")
-		(property "Reference" "#FLG02"
-			(at 48.26 40.005 0)
+		(uuid "37983605-f7d9-475a-a2c2-cbfbcea5a016")
+		(property "Reference" "#PWR019"
+			(at 33.02 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8079,8 +8040,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "PWR_FLAG"
-			(at 48.26 36.83 0)
+		(property "Value" "GND"
+			(at 33.02 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8088,7 +8049,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 48.26 41.91 0)
+			(at 33.02 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8096,8 +8057,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 48.26 41.91 0)
+		(property "Datasheet" ""
+			(at 33.02 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8105,8 +8066,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 48.26 41.91 0)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 33.02 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8115,12 +8076,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "374bf1e3-80b7-4286-bcd5-cba52f6d6f53")
+			(uuid "02cd4d3e-9278-492d-bb65-b04abc55b3a1")
 		)
 		(instances
-			(project "opamp-front"
+			(project ""
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "#FLG02")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -8136,7 +8097,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3bb7fc17-5a28-4002-9ead-3a65e2625ed1")
-		(property "Reference" "R9"
+		(property "Reference" "R10"
 			(at 90.17 124.4599 0)
 			(effects
 				(font
@@ -8145,7 +8106,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "820"
+		(property "Value" "4.7k"
 			(at 90.17 126.9999 0)
 			(effects
 				(font
@@ -8190,7 +8151,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "R9")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -8198,16 +8159,16 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 48.26 124.46 0)
+		(at 49.53 26.67 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "3f8430d0-8925-4377-bef6-853d399a98da")
-		(property "Reference" "#FLG03"
-			(at 48.26 122.555 0)
+		(uuid "3d4d8f94-f4a7-4484-a29e-ad88e7e2c507")
+		(property "Reference" "#FLG04"
+			(at 49.53 24.765 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8216,7 +8177,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 48.26 119.38 0)
+			(at 49.53 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8224,7 +8185,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 48.26 124.46 0)
+			(at 49.53 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8233,7 +8194,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 48.26 124.46 0)
+			(at 49.53 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8242,7 +8203,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 48.26 124.46 0)
+			(at 49.53 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8251,12 +8212,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "82c06e4c-12a4-4b2b-b3c4-02ed09b77188")
+			(uuid "500abb99-8faa-437c-920f-9401b95c3bd3")
 		)
 		(instances
-			(project ""
+			(project "opamp-front"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "#FLG03")
+					(reference "#FLG04")
 					(unit 1)
 				)
 			)
@@ -8272,7 +8233,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4030ddc3-4b50-471a-a07f-3493e77f8332")
-		(property "Reference" "C1"
+		(property "Reference" "C3"
 			(at 64.77 52.07 90)
 			(effects
 				(font
@@ -8324,7 +8285,7 @@
 		(instances
 			(project ""
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "C1")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -8417,83 +8378,17 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 57.15 128.27 0)
+		(lib_id "Diode:1N4004")
+		(at 198.12 21.59 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "42008a27-69f7-4161-af2b-b3726fa1704d")
-		(property "Reference" "#PWR020"
-			(at 57.15 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 57.15 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 57.15 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 57.15 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 57.15 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "bdfed4eb-c933-4bc4-9a3c-2e6d72dac0d1")
-		)
-		(instances
-			(project ""
-				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "#PWR020")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:1N4004")
-		(at 198.12 21.59 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
 		(uuid "462a0e8d-39d0-420d-a2e4-db3c32103bfc")
-		(property "Reference" "D12"
-			(at 200.66 22.8601 90)
+		(property "Reference" "D11"
+			(at 200.66 20.3199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8502,7 +8397,7 @@
 			)
 		)
 		(property "Value" "1N4004"
-			(at 200.66 20.3201 90)
+			(at 200.66 22.8599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8564,7 +8459,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "D12")
+					(reference "D11")
 					(unit 1)
 				)
 			)
@@ -8579,7 +8474,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "464431e0-eaf2-441f-b0e9-45d9ad32105f")
-		(property "Reference" "Q6"
+		(property "Reference" "Q8"
 			(at 166.37 93.9799 0)
 			(effects
 				(font
@@ -8639,75 +8534,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "Q6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 35.56 73.66 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4748e2f5-54d5-41d7-9de3-ccf03f3616cd")
-		(property "Reference" "R29"
-			(at 35.56 67.31 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "470"
-			(at 35.56 69.85 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
-			(at 35.56 75.438 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 35.56 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 35.56 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "bcb930b5-9cfc-43d1-94f9-a5e3c8768941")
-		)
-		(pin "2"
-			(uuid "d11862c4-e8f1-4921-812e-c252adef4554")
-		)
-		(instances
-			(project "opamp-front"
-				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "R29")
+					(reference "Q8")
 					(unit 1)
 				)
 			)
@@ -8723,7 +8550,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4c6eb335-9cc5-4f57-9d0b-fea70b56dff6")
-		(property "Reference" "R4"
+		(property "Reference" "R3"
 			(at 120.65 62.2299 0)
 			(effects
 				(font
@@ -8777,7 +8604,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "R4")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -8793,7 +8620,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4d4d53bd-d409-4207-92ac-e6376b356b32")
-		(property "Reference" "R2"
+		(property "Reference" "R14"
 			(at 143.51 31.7499 0)
 			(effects
 				(font
@@ -8847,7 +8674,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "R2")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -8937,6 +8764,91 @@
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
 					(reference "D17")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Amplifier_Operational:NE5532")
+		(at 54.61 142.24 0)
+		(unit 2)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "52005510-779d-4283-b027-42f2fe79e2fe")
+		(property "Reference" "U1"
+			(at 54.61 133.858 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LM4562"
+			(at 54.61 136.398 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
+			(at 54.61 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/ne5532.pdf"
+			(at 54.61 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Dual Low-Noise Operational Amplifiers, DIP-8/SOIC-8"
+			(at 54.61 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "4ef1c349-b09a-4fba-a250-609db3a1067f")
+		)
+		(pin "7"
+			(uuid "1b0b51ce-30f4-4867-9edb-55500f9a8e17")
+		)
+		(pin "8"
+			(uuid "a7a253e1-37d8-4f8b-8b6e-15b7d46f0a0d")
+		)
+		(pin "1"
+			(uuid "976b0505-3038-47da-895d-647e3f51483e")
+		)
+		(pin "4"
+			(uuid "aaf998a8-c43a-4f38-9ab0-afccabcb5f58")
+		)
+		(pin "3"
+			(uuid "050c3816-95ef-408c-890e-c56adbfc4ea3")
+		)
+		(pin "5"
+			(uuid "978ba4be-8e82-41b2-a7ba-9de38f899873")
+		)
+		(pin "6"
+			(uuid "18954468-9932-413b-b2c1-bdaeabcf21d6")
+		)
+		(instances
+			(project "opamp-front"
+				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
+					(reference "U1")
+					(unit 2)
 				)
 			)
 		)
@@ -9081,7 +8993,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "59e19e7e-71a2-41b5-8425-0f1fc269e037")
-		(property "Reference" "R12"
+		(property "Reference" "R34"
 			(at 92.456 141.478 90)
 			(effects
 				(font
@@ -9133,7 +9045,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "R12")
+					(reference "R34")
 					(unit 1)
 				)
 			)
@@ -9148,7 +9060,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5b80880a-baf1-4d2d-8d06-f726f1b0fb85")
-		(property "Reference" "C8"
+		(property "Reference" "C12"
 			(at 143.764 21.082 0)
 			(effects
 				(font
@@ -9202,7 +9114,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "C8")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -9283,7 +9195,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5e0bf8f3-d2da-4818-ae06-c1b2f71b9c54")
-		(property "Reference" "D13"
+		(property "Reference" "D15"
 			(at 190.5 53.0861 90)
 			(effects
 				(font
@@ -9355,7 +9267,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "D13")
+					(reference "D15")
 					(unit 1)
 				)
 			)
@@ -9370,7 +9282,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "61157c3f-bd2c-49fe-8a3b-07832fc49242")
-		(property "Reference" "D6"
+		(property "Reference" "D4"
 			(at 90.17 58.4199 90)
 			(effects
 				(font
@@ -9442,7 +9354,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "D6")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -9458,7 +9370,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "640e2f1c-0ebb-4591-b040-23d218a04767")
-		(property "Reference" "C4"
+		(property "Reference" "C1"
 			(at 29.21 66.04 90)
 			(effects
 				(font
@@ -9510,7 +9422,7 @@
 		(instances
 			(project ""
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "C4")
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -9595,7 +9507,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "665d4a7d-1e2a-46ba-842a-e10f819030f4")
-		(property "Reference" "C14"
+		(property "Reference" "C6"
 			(at 212.09 84.2009 0)
 			(effects
 				(font
@@ -9649,7 +9561,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "C14")
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -9665,7 +9577,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "671e6463-a669-4447-8015-793bd813cdfa")
-		(property "Reference" "R24"
+		(property "Reference" "R19"
 			(at 219.71 88.9 90)
 			(effects
 				(font
@@ -9717,7 +9629,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "R24")
+					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -9732,7 +9644,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "67585b4c-3cf5-4965-94e6-3dad88fb1675")
-		(property "Reference" "D5"
+		(property "Reference" "D6"
 			(at 100.584 41.91 90)
 			(effects
 				(font
@@ -9786,7 +9698,7 @@
 		(instances
 			(project ""
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "D5")
+					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -9802,7 +9714,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "68386c7d-f845-4855-803d-3ac21d89e907")
-		(property "Reference" "R28"
+		(property "Reference" "R25"
 			(at 236.22 81.2799 0)
 			(effects
 				(font
@@ -9856,7 +9768,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "R28")
+					(reference "R25")
 					(unit 1)
 				)
 			)
@@ -9872,7 +9784,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6c16ec09-20c9-48d0-aeb6-0f13a87e1e36")
-		(property "Reference" "J1"
+		(property "Reference" "J3"
 			(at 20.32 67.31 0)
 			(effects
 				(font
@@ -9924,7 +9836,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "J1")
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -9940,7 +9852,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6c3fa7d0-6f89-4f6f-8b1a-75c1eb1637c7")
-		(property "Reference" "Q1"
+		(property "Reference" "Q3"
 			(at 143.51 45.7201 0)
 			(effects
 				(font
@@ -10000,7 +9912,7 @@
 		(instances
 			(project ""
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "Q1")
+					(reference "Q3")
 					(unit 1)
 				)
 			)
@@ -10015,7 +9927,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6d0a215d-602b-4a79-990c-165fb4743316")
-		(property "Reference" "Q2"
+		(property "Reference" "Q10"
 			(at 129.54 35.5599 0)
 			(effects
 				(font
@@ -10024,7 +9936,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2N3906"
+		(property "Value" "2N2906"
 			(at 129.54 38.0999 0)
 			(effects
 				(font
@@ -10075,7 +9987,73 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "Q2")
+					(reference "Q10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 237.49 26.67 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6f7714e1-8868-416d-910f-b13f1b35516b")
+		(property "Reference" "#FLG03"
+			(at 237.49 24.765 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 237.49 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 237.49 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 237.49 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 237.49 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "db140333-2491-47bd-8dd0-6cdda5eb545b")
+		)
+		(instances
+			(project ""
+				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
+					(reference "#FLG03")
 					(unit 1)
 				)
 			)
@@ -10091,7 +10069,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6f8ebc00-7739-41d2-bc33-287003a0b08e")
-		(property "Reference" "C13"
+		(property "Reference" "C16"
 			(at 218.44 21.2089 0)
 			(effects
 				(font
@@ -10145,7 +10123,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "C13")
+					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -10160,7 +10138,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "709a1269-5bf9-4cdf-a404-df14b9851b92")
-		(property "Reference" "D3"
+		(property "Reference" "D9"
 			(at 129.54 49.5301 90)
 			(effects
 				(font
@@ -10232,77 +10210,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "D3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 57.15 120.65 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "72cd6617-29b4-4028-b24a-7bc96a0322a5")
-		(property "Reference" "R30"
-			(at 59.69 119.3799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10"
-			(at 59.69 121.9199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
-			(at 55.372 120.65 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 57.15 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 57.15 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4ff10a83-7f55-471b-9de5-c0da896063dd")
-		)
-		(pin "2"
-			(uuid "afd2bd2f-b631-4b09-a9c8-33ff857f9be0")
-		)
-		(instances
-			(project "opamp-front"
-				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "R30")
+					(reference "D9")
 					(unit 1)
 				)
 			)
@@ -10384,7 +10292,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "783ac030-3bf0-4e2e-95fb-f2b0a58a129c")
-		(property "Reference" "D15"
+		(property "Reference" "D16"
 			(at 190.246 108.966 90)
 			(effects
 				(font
@@ -10456,7 +10364,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "D15")
+					(reference "D16")
 					(unit 1)
 				)
 			)
@@ -10537,7 +10445,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7d29fa42-2e76-4bcc-9c8e-870a21aac469")
-		(property "Reference" "R13"
+		(property "Reference" "R2"
 			(at 59.69 87.6299 0)
 			(effects
 				(font
@@ -10591,7 +10499,7 @@
 		(instances
 			(project ""
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "R13")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -10691,7 +10599,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7eeb3bbb-f3c0-4abf-ad36-882c84ceb270")
-		(property "Reference" "D14"
+		(property "Reference" "D18"
 			(at 236.22 88.646 90)
 			(effects
 				(font
@@ -10763,7 +10671,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "D14")
+					(reference "D18")
 					(unit 1)
 				)
 			)
@@ -10778,7 +10686,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "804954d4-20e6-46fd-ae35-9c42be3d36e7")
-		(property "Reference" "C6"
+		(property "Reference" "C10"
 			(at 92.71 162.56 90)
 			(effects
 				(font
@@ -10830,7 +10738,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "C6")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -10846,7 +10754,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "80e0cf72-8d0f-48d6-913d-978257b6d729")
-		(property "Reference" "R10"
+		(property "Reference" "R5"
 			(at 113.03 88.8999 0)
 			(effects
 				(font
@@ -10900,7 +10808,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "R10")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -10916,12 +10824,13 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "84db8bdc-9b68-4ba7-a73d-12715f5ee6c9")
-		(property "Reference" "R22"
+		(property "Reference" "R32"
 			(at 162.56 125.73 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "33"
@@ -10968,7 +10877,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "R22")
+					(reference "R32")
 					(unit 1)
 				)
 			)
@@ -10983,7 +10892,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8997c599-4afc-46f2-8093-7c7d09ac11ef")
-		(property "Reference" "R25"
+		(property "Reference" "R17"
 			(at 200.66 85.0899 0)
 			(effects
 				(font
@@ -11037,7 +10946,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "R25")
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -11053,7 +10962,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8b30e6d9-9fed-416f-af99-8699e5eaf572")
-		(property "Reference" "J6"
+		(property "Reference" "J5"
 			(at 228.6 125.0949 90)
 			(effects
 				(font
@@ -11107,7 +11016,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "J6")
+					(reference "J5")
 					(unit 1)
 				)
 			)
@@ -11122,7 +11031,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8d28d313-a69d-4b2d-9004-a8bde3e51f06")
-		(property "Reference" "D10"
+		(property "Reference" "D7"
 			(at 99.06 114.2999 90)
 			(effects
 				(font
@@ -11176,7 +11085,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "D10")
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -11192,7 +11101,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8d7bb457-1301-462d-a534-12a04e6df6eb")
-		(property "Reference" "R5"
+		(property "Reference" "R7"
 			(at 90.17 43.1799 0)
 			(effects
 				(font
@@ -11246,7 +11155,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "R5")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -11519,7 +11428,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "96a1eeac-f0a4-4f1a-b0f1-1870e3df35e1")
-		(property "Reference" "C7"
+		(property "Reference" "C4"
 			(at 60.96 103.2509 0)
 			(effects
 				(font
@@ -11573,7 +11482,7 @@
 		(instances
 			(project ""
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "C7")
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -11589,7 +11498,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "978d71df-0baa-4f05-b586-fb55800c9a1a")
-		(property "Reference" "Q7"
+		(property "Reference" "Q2"
 			(at 143.51 114.2999 0)
 			(effects
 				(font
@@ -11649,7 +11558,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "Q7")
+					(reference "Q2")
 					(unit 1)
 				)
 			)
@@ -11729,7 +11638,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9c069c2d-dfce-4e36-a8f2-7db2ab87b3eb")
-		(property "Reference" "R18"
+		(property "Reference" "R23"
 			(at 235.204 66.802 0)
 			(effects
 				(font
@@ -11783,7 +11692,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "R18")
+					(reference "R23")
 					(unit 1)
 				)
 			)
@@ -11798,7 +11707,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9cf519d3-193f-4005-9218-cade759ffc75")
-		(property "Reference" "R26"
+		(property "Reference" "R15"
 			(at 153.67 85.0899 0)
 			(effects
 				(font
@@ -11852,7 +11761,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "R26")
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -11861,14 +11770,15 @@
 	(symbol
 		(lib_id "Diode:1N4004")
 		(at 198.12 135.89 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "9df3c88f-8f5a-45ba-8799-b35a256b4236")
-		(property "Reference" "D18"
-			(at 200.66 134.6199 90)
+		(property "Reference" "D10"
+			(at 200.66 137.1601 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11877,7 +11787,7 @@
 			)
 		)
 		(property "Value" "1N4004"
-			(at 200.66 137.1599 90)
+			(at 200.66 134.6201 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11939,73 +11849,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "D18")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 25.4 147.32 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9f39e938-39c4-4565-b389-de3d1577bbe3")
-		(property "Reference" "#PWR019"
-			(at 25.4 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 25.4 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 25.4 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 25.4 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 25.4 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4fdc52f5-12aa-450c-9bdd-aab1a465f45b")
-		)
-		(instances
-			(project ""
-				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "#PWR019")
+					(reference "D10")
 					(unit 1)
 				)
 			)
@@ -12013,7 +11857,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 40.64 81.28 0)
+		(at 34.29 81.28 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12022,7 +11866,7 @@
 		(fields_autoplaced yes)
 		(uuid "a31fb7a2-2d56-488b-978e-2aaa48e4fbc3")
 		(property "Reference" "R1"
-			(at 43.18 80.0099 0)
+			(at 36.83 80.0099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12031,7 +11875,7 @@
 			)
 		)
 		(property "Value" "33k"
-			(at 43.18 82.5499 0)
+			(at 36.83 82.5499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12040,7 +11884,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
-			(at 38.862 81.28 90)
+			(at 32.512 81.28 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12049,7 +11893,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 40.64 81.28 0)
+			(at 34.29 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12058,7 +11902,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 40.64 81.28 0)
+			(at 34.29 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12090,7 +11934,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a6eecc8a-5b7d-42f7-a0d9-6f5dea507762")
-		(property "Reference" "R23"
+		(property "Reference" "R21"
 			(at 190.5 100.0759 0)
 			(effects
 				(font
@@ -12144,7 +11988,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "R23")
+					(reference "R21")
 					(unit 1)
 				)
 			)
@@ -12159,7 +12003,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "acecd4f6-615b-4765-b9bb-35603206e08e")
-		(property "Reference" "Q9"
+		(property "Reference" "Q11"
 			(at 223.012 43.688 0)
 			(effects
 				(font
@@ -12266,7 +12110,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "Q9")
+					(reference "Q11")
 					(unit 1)
 				)
 			)
@@ -12282,7 +12126,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ae92afb4-4b63-4fce-af07-76290a9d6894")
-		(property "Reference" "Q5"
+		(property "Reference" "Q1"
 			(at 120.65 50.7999 0)
 			(effects
 				(font
@@ -12342,7 +12186,7 @@
 		(instances
 			(project ""
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "Q5")
+					(reference "Q1")
 					(unit 1)
 				)
 			)
@@ -12358,7 +12202,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b2637abc-d283-4e76-81b4-11c50eda3702")
-		(property "Reference" "C16"
+		(property "Reference" "C17"
 			(at 215.9 140.5891 0)
 			(effects
 				(font
@@ -12412,7 +12256,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "C16")
+					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -12428,7 +12272,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b5e798b2-ec23-40fd-a213-92aad9b46a4f")
-		(property "Reference" "Q11"
+		(property "Reference" "Q4"
 			(at 138.684 74.676 0)
 			(effects
 				(font
@@ -12488,7 +12332,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "Q11")
+					(reference "Q4")
 					(unit 1)
 				)
 			)
@@ -12560,6 +12404,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 33.02 138.43 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b62ed36c-1347-4b7a-a82d-294e4d36dc12")
+		(property "Reference" "#FLG01"
+			(at 33.02 136.525 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 33.02 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 33.02 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 33.02 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 33.02 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d8df799c-bf47-4473-b3a0-14419637c57d")
+		)
+		(instances
+			(project ""
+				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
+					(reference "#FLG01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 118.11 121.92 0)
 		(mirror y)
@@ -12569,7 +12479,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "baa5cf4b-8d47-4783-8b23-ead3774caf37")
-		(property "Reference" "R15"
+		(property "Reference" "R12"
 			(at 115.57 120.6499 0)
 			(effects
 				(font
@@ -12623,93 +12533,8 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "R15")
+					(reference "R12")
 					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Amplifier_Operational:NE5532")
-		(at 49.53 143.51 0)
-		(unit 2)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "bcdfad42-53fd-4b98-b333-e51f9de7cc81")
-		(property "Reference" "U1"
-			(at 49.53 135.128 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LM4562"
-			(at 49.53 137.668 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
-			(at 49.53 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/ne5532.pdf"
-			(at 49.53 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Dual Low-Noise Operational Amplifiers, DIP-8/SOIC-8"
-			(at 49.53 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "54ee6688-36b4-426b-9a7e-8a68351a7bf0")
-		)
-		(pin "7"
-			(uuid "1b0b51ce-30f4-4867-9edb-55500f9a8e18")
-		)
-		(pin "8"
-			(uuid "a7a253e1-37d8-4f8b-8b6e-15b7d46f0a0e")
-		)
-		(pin "1"
-			(uuid "ac9f21a2-1fb5-489d-a4cc-11515429a582")
-		)
-		(pin "4"
-			(uuid "aaf998a8-c43a-4f38-9ab0-afccabcb5f59")
-		)
-		(pin "3"
-			(uuid "d58b0f29-32bb-42b5-a321-9befb4a7e252")
-		)
-		(pin "5"
-			(uuid "978ba4be-8e82-41b2-a7ba-9de38f899874")
-		)
-		(pin "6"
-			(uuid "18954468-9932-413b-b2c1-bdaeabcf21d7")
-		)
-		(instances
-			(project "opamp-front"
-				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "U1")
-					(unit 2)
 				)
 			)
 		)
@@ -12864,7 +12689,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c63c1f48-42fb-41c3-b7ba-528cab4bfde2")
-		(property "Reference" "C11"
+		(property "Reference" "C9"
 			(at 181.61 104.1399 0)
 			(effects
 				(font
@@ -12918,7 +12743,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "C11")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -12934,7 +12759,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c72b825e-c0bc-47c8-b26d-6e485c2a1e70")
-		(property "Reference" "R14"
+		(property "Reference" "R13"
 			(at 143.51 124.4599 0)
 			(effects
 				(font
@@ -12988,7 +12813,7 @@
 		(instances
 			(project ""
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "R14")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -13004,7 +12829,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cb4395cc-87a3-4812-9dfe-0c055690fe8b")
-		(property "Reference" "Q3"
+		(property "Reference" "Q7"
 			(at 166.37 63.4999 0)
 			(effects
 				(font
@@ -13064,7 +12889,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "Q3")
+					(reference "Q7")
 					(unit 1)
 				)
 			)
@@ -13079,7 +12904,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ccbad5a7-aff6-4bf5-9190-42a3b8a14fb6")
-		(property "Reference" "D16"
+		(property "Reference" "D14"
 			(at 171.45 107.9499 90)
 			(effects
 				(font
@@ -13151,7 +12976,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "D16")
+					(reference "D14")
 					(unit 1)
 				)
 			)
@@ -13167,7 +12992,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cceb4d46-28fc-4700-b162-2be49cb21113")
-		(property "Reference" "J2"
+		(property "Reference" "J6"
 			(at 278.13 18.4149 90)
 			(effects
 				(font
@@ -13221,7 +13046,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "J2")
+					(reference "J6")
 					(unit 1)
 				)
 			)
@@ -13237,7 +13062,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d10ace10-c62a-4680-a7c6-2bb2aa6f3331")
-		(property "Reference" "R3"
+		(property "Reference" "R11"
 			(at 115.57 35.5599 0)
 			(effects
 				(font
@@ -13291,7 +13116,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "R3")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -13307,7 +13132,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d13993a8-3344-4c40-9224-9e3d4d43798a")
-		(property "Reference" "R6"
+		(property "Reference" "R8"
 			(at 90.17 31.7499 0)
 			(effects
 				(font
@@ -13316,7 +13141,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "820"
+		(property "Value" "4.7k"
 			(at 90.17 34.2899 0)
 			(effects
 				(font
@@ -13361,7 +13186,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "R6")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -13377,7 +13202,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d2a9c41c-77c4-48a9-aaf8-27edb49f93e8")
-		(property "Reference" "D1"
+		(property "Reference" "D2"
 			(at 36.83 104.1399 90)
 			(effects
 				(font
@@ -13449,7 +13274,7 @@
 		(instances
 			(project ""
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "D1")
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -13530,7 +13355,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d41f2440-4b33-4313-8c64-8a00ae14d295")
-		(property "Reference" "J5"
+		(property "Reference" "J1"
 			(at 228.6 33.6551 90)
 			(effects
 				(font
@@ -13584,7 +13409,73 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "J5")
+					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 237.49 132.08 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d4437a8f-4252-4623-9ed5-235efd74d3d7")
+		(property "Reference" "#FLG02"
+			(at 237.49 133.985 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 237.49 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 237.49 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 237.49 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 237.49 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "850e52be-8771-4b02-b978-8ae1003e75d5")
+		)
+		(instances
+			(project ""
+				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
+					(reference "#FLG02")
 					(unit 1)
 				)
 			)
@@ -13600,7 +13491,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d4d81511-631d-4f6a-b383-6490789c6d0c")
-		(property "Reference" "R8"
+		(property "Reference" "R9"
 			(at 90.17 111.7599 0)
 			(effects
 				(font
@@ -13654,7 +13545,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "R8")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -13735,7 +13626,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "dcfd1369-660d-4c5e-9224-445fc80d282a")
-		(property "Reference" "D8"
+		(property "Reference" "D5"
 			(at 90.17 80.0099 90)
 			(effects
 				(font
@@ -13807,7 +13698,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "D8")
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -13822,7 +13713,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e0316d12-f782-4724-b00f-dfa5843f820b")
-		(property "Reference" "D9"
+		(property "Reference" "D8"
 			(at 129.54 113.0301 90)
 			(effects
 				(font
@@ -13894,7 +13785,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "D9")
+					(reference "D8")
 					(unit 1)
 				)
 			)
@@ -13902,16 +13793,16 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 48.26 27.94 0)
+		(at 49.53 41.91 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "e1ef43f1-f30d-4ee9-9899-a6b001ef21db")
-		(property "Reference" "#FLG01"
-			(at 48.26 26.035 0)
+		(uuid "e266ebec-d691-4f58-a8ac-6708dbe96ab1")
+		(property "Reference" "#FLG05"
+			(at 49.53 40.005 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13920,7 +13811,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 48.26 22.86 0)
+			(at 49.53 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13928,7 +13819,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 48.26 27.94 0)
+			(at 49.53 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13937,7 +13828,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 48.26 27.94 0)
+			(at 49.53 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13946,7 +13837,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 48.26 27.94 0)
+			(at 49.53 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13955,12 +13846,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "b6cef700-7b14-496d-9232-fcb6c8142f3b")
+			(uuid "968ee4a7-fa21-4331-b851-f4552953fbb1")
 		)
 		(instances
-			(project ""
+			(project "opamp-front"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "#FLG01")
+					(reference "#FLG05")
 					(unit 1)
 				)
 			)
@@ -13976,7 +13867,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e4d15070-fcb9-4704-b060-ff7ad35ee71d")
-		(property "Reference" "R16"
+		(property "Reference" "R18"
 			(at 219.71 58.42 90)
 			(effects
 				(font
@@ -14028,7 +13919,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "R16")
+					(reference "R18")
 					(unit 1)
 				)
 			)
@@ -14110,7 +14001,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e58af453-5bf5-4e41-baf8-a3820f6baa67")
-		(property "Reference" "C15"
+		(property "Reference" "C5"
 			(at 162.56 74.0409 0)
 			(effects
 				(font
@@ -14164,7 +14055,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "C15")
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -14180,7 +14071,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e7413985-4f3e-4020-8159-7cbe8f70b767")
-		(property "Reference" "R7"
+		(property "Reference" "R4"
 			(at 120.65 88.8999 0)
 			(effects
 				(font
@@ -14234,7 +14125,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "R7")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -14250,7 +14141,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e91d7aa8-96d0-4cc0-9653-26be815140c8")
-		(property "Reference" "Q4"
+		(property "Reference" "Q6"
 			(at 120.65 104.1399 0)
 			(effects
 				(font
@@ -14310,7 +14201,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "Q4")
+					(reference "Q6")
 					(unit 1)
 				)
 			)
@@ -14326,7 +14217,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ea128840-24bc-40f2-b92b-3c00e8a6ee65")
-		(property "Reference" "C12"
+		(property "Reference" "C8"
 			(at 154.94 140.5891 0)
 			(effects
 				(font
@@ -14380,7 +14271,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "C12")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -14396,7 +14287,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ee218e6f-b886-49b3-9f26-a668faae006c")
-		(property "Reference" "Q12"
+		(property "Reference" "Q9"
 			(at 200.66 119.3801 0)
 			(effects
 				(font
@@ -14456,7 +14347,7 @@
 		(instances
 			(project ""
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "Q12")
+					(reference "Q9")
 					(unit 1)
 				)
 			)
@@ -14471,7 +14362,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "efe359f0-1978-41a5-b947-0dce12acebb8")
-		(property "Reference" "Q10"
+		(property "Reference" "Q5"
 			(at 200.66 38.0999 0)
 			(effects
 				(font
@@ -14531,7 +14422,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "Q10")
+					(reference "Q5")
 					(unit 1)
 				)
 			)
@@ -14547,7 +14438,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f16436b6-ca16-4e2c-a24f-fab2ae60e43b")
-		(property "Reference" "J3"
+		(property "Reference" "J2"
 			(at 280.67 69.2149 90)
 			(effects
 				(font
@@ -14601,7 +14492,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "J3")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -14617,7 +14508,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f8b4d270-7205-479a-9857-5952c94fa492")
-		(property "Reference" "R17"
+		(property "Reference" "R33"
 			(at 162.56 20.32 90)
 			(effects
 				(font
@@ -14669,7 +14560,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "R17")
+					(reference "R33")
 					(unit 1)
 				)
 			)
@@ -14685,7 +14576,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fc7fbd67-196b-4109-a7c5-3837948c823a")
-		(property "Reference" "R11"
+		(property "Reference" "R6"
 			(at 107.95 115.5699 0)
 			(effects
 				(font
@@ -14739,7 +14630,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "R11")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -14754,7 +14645,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fcebe1b2-6da5-45b9-8a21-6cfd6ceaf63e")
-		(property "Reference" "D11"
+		(property "Reference" "D13"
 			(at 171.45 48.2599 90)
 			(effects
 				(font
@@ -14826,7 +14717,7 @@
 		(instances
 			(project "opamp-common-base"
 				(path "/009c9171-4af5-4d12-a7c5-89205f52af78"
-					(reference "D11")
+					(reference "D13")
 					(unit 1)
 				)
 			)
