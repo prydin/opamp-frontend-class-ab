@@ -7080,7 +7080,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2N2904"
+		(property "Value" "2N3904"
 			(at 129.54 121.9199 0)
 			(effects
 				(font
@@ -8145,7 +8145,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.7k"
+		(property "Value" "820"
 			(at 90.17 126.9999 0)
 			(effects
 				(font
@@ -8485,15 +8485,15 @@
 	(symbol
 		(lib_id "Diode:1N4004")
 		(at 198.12 21.59 270)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "462a0e8d-39d0-420d-a2e4-db3c32103bfc")
 		(property "Reference" "D12"
-			(at 200.66 20.3199 90)
+			(at 200.66 22.8601 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8502,7 +8502,7 @@
 			)
 		)
 		(property "Value" "1N4004"
-			(at 200.66 22.8599 90)
+			(at 200.66 20.3201 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10024,7 +10024,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2N2906"
+		(property "Value" "2N3906"
 			(at 129.54 38.0999 0)
 			(effects
 				(font
@@ -11861,7 +11861,6 @@
 	(symbol
 		(lib_id "Diode:1N4004")
 		(at 198.12 135.89 90)
-		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11869,7 +11868,7 @@
 		(dnp no)
 		(uuid "9df3c88f-8f5a-45ba-8799-b35a256b4236")
 		(property "Reference" "D18"
-			(at 200.66 137.1601 90)
+			(at 200.66 134.6199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11878,7 +11877,7 @@
 			)
 		)
 		(property "Value" "1N4004"
-			(at 200.66 134.6201 90)
+			(at 200.66 137.1599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13317,7 +13316,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.7k"
+		(property "Value" "820"
 			(at 90.17 34.2899 0)
 			(effects
 				(font
