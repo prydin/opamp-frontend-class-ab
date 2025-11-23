@@ -7,3 +7,5 @@ spice/opamp-classabs.net
 spice/opamp-classabs.op.raw
 spice/opamp-classabs.raw
 *.lck
+/kicad/opamp-front-backups
+*.zip
