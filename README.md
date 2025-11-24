@@ -12,7 +12,7 @@ and looks quite promising. More measurements and listening tests are pending.
 The schematic and PCB layout are free to use as you please, but bear in mind that it's only undergone a bare minimum of testing! Build at your own risk!
 
 ## Credits and acknowledgements
-There were several people involved in the creation of this design. If you're not mentioned and feel you should be, just dd your name and issue a PR! 
+There were several people involved in the creation of this design. If you're not mentioned and feel you should be, just add your name and issue a PR! 
 
 ## Schematic
 ![Schematic](images/schematic.png)
