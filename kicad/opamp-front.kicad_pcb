@@ -1539,7 +1539,7 @@
 		(descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=7.62mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 7.62mm 0.167W length 3.6mm diameter 1.6mm")
 		(property "Reference" "R27"
-			(at 2.54 -2.413 90)
+			(at 2.54 2.159 90)
 			(layer "F.SilkS")
 			(uuid "4975340c-589c-47fa-9643-4747aa8960fa")
 			(effects
@@ -5021,7 +5021,7 @@
 		(descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=7.62mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 7.62mm 0.167W length 3.6mm diameter 1.6mm")
 		(property "Reference" "R26"
-			(at 2.159 -2.159 90)
+			(at 2.921 1.905 90)
 			(layer "F.SilkS")
 			(uuid "92040f17-ba40-4760-8d5b-a893e650fa33")
 			(effects
@@ -5195,7 +5195,7 @@
 		(descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=7.62mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 7.62mm 0.167W length 3.6mm diameter 1.6mm")
 		(property "Reference" "R12"
-			(at 3.262 -2.535 90)
+			(at 3.516 2.037 90)
 			(layer "F.SilkS")
 			(uuid "bc73e16d-35c6-4bb7-966c-857ae48103f1")
 			(effects
@@ -7835,7 +7835,7 @@
 		(descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=7.62mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 7.62mm 0.167W length 3.6mm diameter 1.6mm")
 		(property "Reference" "R9"
-			(at 3.516 -2.216727 90)
+			(at 3.262 2.355273 90)
 			(layer "F.SilkS")
 			(uuid "d6cc07a3-d736-4e8b-9436-e7e22da67bcc")
 			(effects
@@ -8468,7 +8468,7 @@
 		(descr "Resistor, Axial_DIN0411 series, Axial, Horizontal, pin pitch=15.24mm, 1W, length*diameter=9.9*3.6mm^2")
 		(tags "Resistor Axial_DIN0411 series Axial Horizontal pin pitch 15.24mm 1W length 9.9mm diameter 3.6mm")
 		(property "Reference" "R18"
-			(at 7.874 -2.794 90)
+			(at 7.62 3.048 90)
 			(layer "F.SilkS")
 			(uuid "0632e79c-75c3-4888-8678-1ea69e487b8c")
 			(effects
@@ -10693,7 +10693,7 @@
 		(descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=7.62mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 7.62mm 0.167W length 3.6mm diameter 1.6mm")
 		(property "Reference" "R13"
-			(at 3.77 -1.867864 90)
+			(at 3.516 1.942136 90)
 			(layer "F.SilkS")
 			(uuid "92a58fd3-79a8-48a7-9145-1c6373efedf0")
 			(effects
@@ -11041,7 +11041,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D8"
-			(at 3.85 -2.286 90)
+			(at 3.85 2.286 90)
 			(layer "F.SilkS")
 			(uuid "bf75b09b-cb78-47b4-8c72-741b2eee3ded")
 			(effects
@@ -12170,7 +12170,7 @@
 		(descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=7.62mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 7.62mm 0.167W length 3.6mm diameter 1.6mm")
 		(property "Reference" "R8"
-			(at 3.81 2.006455 90)
+			(at 4.104 -2.057545 90)
 			(layer "F.SilkS")
 			(uuid "5edde43e-7483-4af8-83a0-0ba78db5f757")
 			(effects
@@ -15056,7 +15056,7 @@
 		(descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=7.62mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 7.62mm 0.167W length 3.6mm diameter 1.6mm")
 		(property "Reference" "R1"
-			(at 1.778 -1.92 90)
+			(at 3.81 -1.92 90)
 			(layer "F.SilkS")
 			(uuid "2ba743f6-3a5d-4191-8afe-576c28a993dc")
 			(effects
@@ -15230,7 +15230,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D5"
-			(at 3.81 -2.12 90)
+			(at 3.81 1.926864 90)
 			(layer "F.SilkS")
 			(uuid "33968b21-e703-4a2a-a69b-774476fc6f01")
 			(effects
@@ -16449,7 +16449,7 @@
 		(descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=7.62mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 7.62mm 0.167W length 3.6mm diameter 1.6mm")
 		(property "Reference" "R6"
-			(at 3.81 2.54 90)
+			(at 3.81 -1.778 90)
 			(layer "F.SilkS")
 			(uuid "6f9b9051-6cba-4d7e-a7de-d4698239828e")
 			(effects
@@ -19090,7 +19090,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D10"
-			(at 4.004 2.365591 90)
+			(at 4.004 -2.714409 90)
 			(layer "F.SilkS")
 			(uuid "6d7b0951-f896-470e-b295-02465099c23d")
 			(effects
@@ -21875,7 +21875,7 @@
 		(descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=7.62mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 7.62mm 0.167W length 3.6mm diameter 1.6mm")
 		(property "Reference" "R5"
-			(at 3.81 -1.92 90)
+			(at 3.77 2.075727 90)
 			(layer "F.SilkS")
 			(uuid "334bd0f4-9eee-4d89-a476-2c521b270310")
 			(effects
@@ -23757,7 +23757,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D4"
-			(at 3.81 2.467 90)
+			(at 3.81 -2.287414 90)
 			(layer "F.SilkS")
 			(uuid "a20bfcb0-e64c-4f78-8d56-dcd58a3e4097")
 			(effects
@@ -24042,7 +24042,7 @@
 		(descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=7.62mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 7.62mm 0.167W length 3.6mm diameter 1.6mm")
 		(property "Reference" "R30"
-			(at 3.81 -1.92 90)
+			(at 3.81 2.307701 90)
 			(layer "F.SilkS")
 			(uuid "67aff2a2-fd55-45de-ac5e-a6a4188ffb4a")
 			(effects
@@ -28639,7 +28639,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D6"
-			(at 3.81 -2.12 90)
+			(at 3.556 2.286 90)
 			(layer "F.SilkS")
 			(uuid "fff81624-6f13-450c-9bc4-6c029d6e807f")
 			(effects
@@ -28924,7 +28924,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D7"
-			(at 3.81 2.286 90)
+			(at 3.81 -2.032 90)
 			(layer "F.SilkS")
 			(uuid "d1ec07ea-a3e7-4cb4-93a8-75831b3f9077")
 			(effects
