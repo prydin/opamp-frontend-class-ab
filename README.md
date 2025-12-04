@@ -19,3 +19,7 @@ There were several people involved in the creation of this design. If you're not
 
 ### PCB 3D rendering
 ![PCB](images/opamp-front.png)
+
+### Measurements
+Preliminary harmonic profile @ 150mA bias current. More test data to come!
+![Spectrum](images/spectrum.png)
