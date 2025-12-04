@@ -21,10 +21,10 @@ There were several people involved in the creation of this design. If you're not
 ![PCB](images/opamp-front.png)
 
 ## Measurements
-THD: 0.00045% @ 1W/1kHz/150mA bias
-SNR: >95dB
-Bandwidth: 10Hz-500kHz
-Slew rate: >80V/us
+- THD: 0.00045% @ 1W/1kHz/150mA bias
+- SNR: >95dB
+- Bandwidth: 10Hz-500kHz
+- Slew rate: >80V/us
 
 ![Spectrum](images/spectrum.png)
 
