@@ -29,7 +29,7 @@ There were several people involved in the creation of this design. If you're not
 ![Spectrum](images/spectrum.png)
 
 ## Subjective listening impression
-After a few hours of listening, I have to say I'm pleased with the sound quality. It character is very crisp and clean. Drum beats and symbals feel very snappy. 
+After a few hours of listening, I have to say I'm pleased with the sound quality. It character is very crisp and clean. Drum beats and cymbals feel very snappy. 
 If you're looking for an amplifierthat colors the sound, this won't be your cup of tea. But so far I would say it does a great job at cleanly reproducing the source material. 
 
 ## Construction
